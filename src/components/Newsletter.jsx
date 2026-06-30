@@ -39,11 +39,6 @@ function Newsletter() {
                 Đăng ký
               </button>
             </div>
-
-            <p className="sm:col-span-2 text-sm text-gray-500 mt-1">
-              Chúng tôi tôn trọng quyền riêng tư của bạn và chỉ gửi nội dung
-              liên quan đến Enabot.
-            </p>
           </form>
         </div>
       </div>
