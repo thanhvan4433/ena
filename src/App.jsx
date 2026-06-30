@@ -15,7 +15,7 @@ function App() {
       <Specifications />
       <Benefits />
       <Newsletter />
-      <Footer />
+      <Footer /> 
     </>
   );
 }
